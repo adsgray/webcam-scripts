@@ -1,0 +1,16 @@
+infile		/root/webcam/webcam.jpg
+outfile		/usr/local/apache/htdocs/webcam/current.jpg
+use3d		0
+rotate		0
+lowerstring	date
+lstringexec	1
+ustringexec	0
+lowerfont	/usr/local/share/stamp/fonts/8x8.fnt
+upperfont	/usr/local/share/stamp/fonts/8x10.fnt
+redfore		255
+greenfore	255
+bluefore	255
+redback		106
+blueback	90
+greenback	205
+shaderate	8
